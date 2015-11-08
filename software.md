@@ -19,3 +19,5 @@ Keyword: xyzzy.
 [View details &raquo;](https://github.com/masyos/mas-xyzzy-utils)
 
 
+---
+[return](./index.html)
