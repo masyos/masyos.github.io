@@ -1,5 +1,12 @@
 # Software
 
+## xxhash-cx
+
+xxHash C++14 constexpr version.
+Keyword: C++.  
+
+[View details &raquo;](https://github.com/masyos/xxhash_cx)
+
 
 ## TMAGImage
 
