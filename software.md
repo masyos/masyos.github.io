@@ -1,12 +1,16 @@
 # Software
 
-## xxhash_cx
+## C++
+
+### xxhash_cx
 
 xxHash C++14 constexpr version.  
 Keyword: C++.  
 
 [View details &raquo;](https://github.com/masyos/xxhash_cx)
 
+
+## Delphi
 
 ## TMAGImage
 
@@ -18,7 +22,9 @@ Keyword: Delphi, Image, MAG.
 [View details &raquo;](https://github.com/masyos/magimage)
 
 
-## mas xyzzy utils
+## misc.
+
+### mas xyzzy utils
 
 大昔に作った xyzzy の delphi-mode, hlsl-mode.  
 Keyword: xyzzy.  
