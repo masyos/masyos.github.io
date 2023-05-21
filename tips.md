@@ -2,9 +2,15 @@
 
 ## Lazarus
 
+### 
+
+#### Snapshot を試したい
+
+[Lazarus Snapshots Downloads - Free Pascal wiki](https://wiki.freepascal.org/Lazarus_Snapshots_Downloads)
+
 ### IDE
 
-#### Delphi スタイル (1 window 化)
+#### Delphi スタイル (1 window 化) にしたい
 
 IDE がデフォルトでは古い Delphi スタイル (複数 window) なので、新しいスタイルで作業したい場合.
 
