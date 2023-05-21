@@ -4,6 +4,10 @@
 
 ---
 
+* [Tips](./index.html?body=tips)
+
+---
+
 * [My GitHub](https://github.com/masyos/)
 
 [EOF]
